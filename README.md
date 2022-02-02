@@ -7,7 +7,7 @@ I am a fullstack engineer. I love programming, problem-solving, gaming and trave
 As a software engineer, I obsess over solving the issues that come my way and enjoy focusing on the issues that can be solved through programming. For these reasons, I focus on making a difference with my programming.
 
 * 👨‍💻
-* 🏖️ How better to unwind?
+* 🏖️ What's better to unwind?
 * 🎮 Competitive Gamer...let's Halo this.
 * 📫 How to reach me: geoffrey.pt.cox@gmail.com
 
