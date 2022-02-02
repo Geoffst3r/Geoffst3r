@@ -1,6 +1,6 @@
 ### Hi there, I am Geoffrey Cox 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffreyptcox/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/profile/edit)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/geoffrey-cox-2)
 
 #### Happy to see you here! 
 I am a fullstack engineer. I love programming, problem-solving, gaming and traveling.
