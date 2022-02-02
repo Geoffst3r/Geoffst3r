@@ -1,9 +1,10 @@
 ### Hi there, I am Geoffrey Cox 👋
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&hide_border=true&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffreyptcox/)
+##### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffreyptcox/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/profile/edit)
 
-[![Geoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffst3r)](https://github.com/Geoffst3r/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoffst3r&layout=compact)](https://github.com/Geoffst3r/github-readme-stats)
+[![Geoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffst3r&include_all_commits=true&count_private=true&hide=stars&hide_border=true)](https://github.com/Geoffst3r/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoffst3r&layout=compact&hide_border=true)](https://github.com/Geoffst3r/github-readme-stats)
 <!--
 **Geoffst3r/Geoffst3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
