@@ -22,8 +22,7 @@ As a software engineer, I obsess over solving the issues that come my way and en
 * 🎮 Competitive Gamer...think you can beat me in Halo? Bet.
 * 📫 How to reach me: geoffrey.pt.cox@gmail.com
 
-[![Geoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffst3r&include_all_commits=true&count_private=true&hide=stars&hide_border=true)](https://github.com/Geoffst3r/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoffst3r&layout=compact&hide_border=true)](https://github.com/Geoffst3r/github-readme-stats)
+[![Geoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffst3r&include_all_commits=true&count_private=true&hide=stars&hide_border=true)](https://github.com/Geoffst3r/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoffst3r&layout=compact&hide_border=true)](https://github.com/Geoffst3r/github-readme-stats)
 <!--
 **Geoffst3r/Geoffst3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
